@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/paandub/SpaceGame-web-pipeline/_apis/build/status/TechLearner001.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/paandub/SpaceGame-web-pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
